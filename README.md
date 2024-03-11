@@ -33,4 +33,4 @@ than resorting to blanket bans or restrictive measures without concrete evidence
 The article presents a compelling argument against the knee-jerk reactions to ban TikTok based on speculative
 threats rather than substantive evidence of national security risks. It underscores the importance of evidence
 based policymaking and the need to balance security concerns with the principles of privacy and freedom of
-expression. 
+expression.  
