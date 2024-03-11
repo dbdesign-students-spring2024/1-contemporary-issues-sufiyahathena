@@ -1,9 +1,9 @@
 # Contemporary Issues In Data
 
-Data Privacy and Control
+# Data Privacy and Control
 
-Article 1: "Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data"
-https://www.nytimes.com/2023/05/24/technology/inside-how-tiktok-shares-user-data-lark.html?searchResultPosition=4
+## Article 1: "Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data"
+[https://www.nytimes.com/2023/05/24/technology/inside-how-tiktok-shares-user-data-lark.html?searchResultPosition=4]
 
 The article sheds light on TikTok's internal practices regarding user data sharing, revealing the extent to
 which personal information is accessible to employees via the Lark messaging platform. It highlights the
@@ -20,8 +20,8 @@ mechanisms to safeguard user data and hold tech companies accountable for their 
 TikTok's efforts to address these concerns through initiatives like Project Texas are commendable, more
 transparency and accountability are needed to rebuild trust and confidence among users and regulators. 
 
-Article 2: "TikTok collects a lot of data. But that’s not the main reason officials say it’s a security risk"
-https://edition.cnn.com/2023/03/24/tech/tiktok-ban-national-security-hearing/index.html
+## Article 2: "TikTok collects a lot of data. But that’s not the main reason officials say it’s a security risk"
+[https://edition.cnn.com/2023/03/24/tech/tiktok-ban-national-security-hearing/index.html]
 
 The article provides a nuanced perspective on the TikTok security debate, highlighting the broader geopolitical
 tensions and concerns surrounding the app's Chinese ownership. While acknowledging the lack of concrete evidence
